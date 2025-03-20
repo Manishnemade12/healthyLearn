@@ -1,4 +1,4 @@
-# This file must be used with "source bin/activate" *from bash*
+git remote add origin https://github.com/Manishnemade12/healthyLearn.git# This file must be used with "source bin/activate" *from bash*
 # You cannot run it directly
 
 deactivate () {
