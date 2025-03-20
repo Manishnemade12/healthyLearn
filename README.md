@@ -1,4 +1,4 @@
-# ZenLearn
+# healthyLearn
 
 ZenLearn is an AI-powered wellness and learning platform that integrates meditation, stress management, a chatbot assistant, and VR experiences to enhance user well-being and knowledge. This repository contains both the frontend and backend components of the application.
 
@@ -94,5 +94,5 @@ This project is licensed under the MIT License.
 For any questions or collaboration requests, feel free to reach out!
 
 ---
-**Author:** Priyadarshi7
+**Author:** Manishnemade12
 
