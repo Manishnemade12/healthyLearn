@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+requests
+openai-whisper
+elevenlabs
+python-multipart
