@@ -1,6 +1,6 @@
 # healthyLearn
 
-ZenLearn is an AI-powered wellness and learning platform that integrates meditation, stress management, a chatbot assistant, and VR experiences to enhance user well-being and knowledge. This repository contains both the frontend and backend components of the application.
+healthyLearn is an AI-powered wellness and learning platform that integrates meditation, stress management, a chatbot assistant, and VR experiences to enhance user well-being and knowledge. This repository contains both the frontend and backend components of the application.
 
 ## Features
 - **Meditation Module** – Guided meditation sessions for relaxation.
